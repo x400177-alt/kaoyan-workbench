@@ -1,0 +1,16 @@
+{
+  "name": "考研备考工作台",
+  "short_name": "考研工作台",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#20242b",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
